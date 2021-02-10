@@ -17,7 +17,7 @@ Symbol    Tag       Example
 
 ## **Bold**
 ## *Italic*
-## ***Bold&Italic**
+## ***Bold&Italic***
 
 ### 2 Bold and Italic test 
 Actions Syntax                        Example
