@@ -7,7 +7,7 @@ Symbol    Tag       Example
 `#####`   <h5>      # h5 heading
 `######`  <h6>      # h6 heading
 
-
+# Headings
 # h1 heading
 ## h2 heading
 ### h3 heading
