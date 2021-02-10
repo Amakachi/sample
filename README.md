@@ -15,6 +15,10 @@ Symbol    Tag       Example
 ##### h5 heading 
 ###### h6 heading
 
+## **Bold**
+## *Italic*
+## ***Bold&Italic**
+
 ### 2 Bold and Italic test 
 Actions Syntax                        Example
 Bold - **Text**                       Bold Text
