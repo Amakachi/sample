@@ -31,4 +31,4 @@ Action               Result
 -                     Bullet Point 2 Using -
 
 
-## > > This is a sample BlockQuote
+## > This is a sample BlockQuote
