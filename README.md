@@ -1,3 +1,4 @@
+### 1. Headings 
 Symbol    Tag       Example
 `#`       <h1>      # h1 heading
 `##`      <h1>      # h2 heading
@@ -5,3 +6,15 @@ Symbol    Tag       Example
 `####`    <h4>      # h4 heading
 `#####`   <h5>      # h5 heading
 `######`  <h6>      # h6 heading
+
+
+### 2 Bold and Italic test 
+Actions Syntax                        Example
+Bold - **Text**                       Bold Text
+Italic - *Text*                       Italic Text
+Bold+Italic - ***Text***              Bold+Italic Text
+
+### 3. Lists
+Action               Result
+*                     Bullet Point 1 Using *
+-                     Bullet Point 2 Using -
